@@ -9,8 +9,8 @@
         border: 1px #CC solid;
     }
     .login input{
-        padding: 5px;
-        margin: 5px;
+        padding: 10px;
+        margin: 10px;
     }
 </style>
 <body>
